@@ -10,6 +10,7 @@ Este repositorio contiene el código del proyecto del curso Electrónica Digital
 
 # Funcionamiento general
 El sistema opera mediante tres dispositivos principales distribuidos de la siguiente manera:
+
 -ESP32: Actúa como interfaz inalámbrica, recibiendo comandos de lectura y guardado enviados desde un smartphone mediante Bluetooth y reenviándolos hacia la Nucleo 1.
 
 -Nucleo 1 (Controlador Central): Coordina las operaciones del sistema, se comunica con el ESP32, la Nucleo 2 y la computadora por canales UART independientes. Es la encargada de actualizar un indicador visual NeoPixel según el estado de funcionamiento y de generar efectos de sonido analógicos mediante el DAC conectados a una bocina/buzzer.   
