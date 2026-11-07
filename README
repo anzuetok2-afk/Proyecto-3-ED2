@@ -1,9 +1,9 @@
-# Proyecto-Final-2-ED2
-Protocolos de Comunicación Serial y Timers
+# Proyecto-Final-3-ED2
+Dispositivo Médico y Data Logger
 
 # Integrantes
 Kathy Anzueto 24910
-Fabiola Caballeros 24927
+Alysson Galindo 231960
 
 # Descripción del proyecto
 Este repositorio contiene el código del proyecto del curso Electrónica Digital 2. En este proyecto se diseñó e implementó un sistema de comunicación entre una NUCLEO-F446RE, un ESP32 y una computadora, integrando diferentes protocolos de comunicación serial y periféricos estudiados durante el curso. 
