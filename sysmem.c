@@ -6,7 +6,7 @@
  *
  *            For more information about which C functions
  *            need which of these lowlevel functions
- *            please consult the newlib libc manual
+ *            please consult the newlib libc manual 
  ******************************************************************************
  * @attention
  *
