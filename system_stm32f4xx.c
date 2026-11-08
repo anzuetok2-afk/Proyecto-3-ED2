@@ -433,7 +433,7 @@ void SystemInit_ExtMemCtl(void)
   (void)(tmp); 
 }
 #endif /* STM32F427xx || STM32F437xx || STM32F429xx || STM32F439xx || STM32F469xx || STM32F479xx */
-#elif defined (DATA_IN_ExtSRAM) || defined (DATA_IN_ExtSDRAM)
+#elif defined (DATA_IN_ExtSRAM) || defined (DATA_IN_ExtSDRAM) 
 /**
   * @brief  Setup the external memory controller.
   *         Called in startup_stm32f4xx.s before jump to main.
